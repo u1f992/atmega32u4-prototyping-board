@@ -5334,6 +5334,28 @@
 			)
 		)
 	)
+	(global_label "D-"
+		(shape input)
+		(at 40.64 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3768a034-8425-49c6-9b99-3af719ed6363")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.8124 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "XTAL2"
 		(shape input)
 		(at 48.26 62.23 180)
@@ -6194,28 +6216,6 @@
 	)
 	(global_label "D+"
 		(shape input)
-		(at 40.64 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d49beaec-dfc8-46a1-a05d-6d26acbfff8b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.8124 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "D-"
-		(shape input)
 		(at 40.64 77.47 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6224,7 +6224,7 @@
 			)
 			(justify right)
 		)
-		(uuid "dd7e56a4-17e4-4d28-b454-a63738ed9852")
+		(uuid "d5213444-3715-4c2e-9fc0-d3bb4e0bdaa4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 34.8124 77.47 0)
 			(effects
