@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "AVR",
+      "includePath": [
+        " /usr/lib/gcc/avr/7.3.0/include/**",
+        "/usr/lib/gcc/avr/7.3.0/include-fixed/**",
+        "/usr/lib/gcc/avr/7.3.0/../../../avr/include/**"
+      ],
+      "defines": [
+        "F_CPU=16000000UL",
+        "__AVR_ATmega32U4__",
+        "__AVR_DEVICE_NAME__=atmega32u4"
+      ],
+      "compilerPath": "/usr/bin/avr-gcc",
+      "cStandard": "c89"
+    }
+  ],
+  "version": 4
+}
